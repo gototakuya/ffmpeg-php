@@ -7,3 +7,10 @@ ffmpeg-php is an extension for PHP that adds an easy to use, object-oriented API
 
 Originally hosted at http://ffmpeg-php.sourceforge.net, the project seems to be abandoned right now.
 So here is a fork of it with minor modifications required to make it work with recent PHP versions.
+
+REQUIREMENTS
+============
+
+ffmpeg-0.5.0 or higher built with the --enable-shared option
+php-5.5.x or higher. 
+gd-2.0.x or higher or the version of GD bundled with PHP
